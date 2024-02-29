@@ -12,6 +12,9 @@ Um script Python simples para comparar dois arquivos PDF e identificar as difere
 >3. O script irá gerar um relatório das diferenças encontradas.
 
 
+
+>>>>OBS: VOCÊ DEVE INSTALAR AS BILBIOTECAS !!
+
 ## Contribuindo
 
 Contribuições são bem-vindas!
